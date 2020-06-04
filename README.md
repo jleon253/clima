@@ -6,8 +6,8 @@ This small app allows search the weather of the city and country specific.
 
 ### Dev tools used
 
-> - HTML, CSS, Materialize CSS
-> - ES6, React.js, Fecth API
+> - HTML, CSS, Materialize CSS, Google Fonts (Lato)
+> - ES6, React.js, Fecth API, Moment JS
 > - API Weather: https://openweathermap.org
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
