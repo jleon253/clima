@@ -2,6 +2,8 @@
 
 This small app allows search the weather of the city and country specific.
 
+**Demo:** https://jleon253.github.io/clima/
+
 ### Dev tools used
 
 > - HTML, CSS, Materialize CSS
