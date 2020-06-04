@@ -1,3 +1,13 @@
+# Weather - React App
+
+This small app allows search the weather of the city and country specific.
+
+### Dev tools used
+
+> - HTML, CSS, Materialize CSS
+> - ES6, React.js, Fecth API
+> - API Weather: https://openweathermap.org
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
